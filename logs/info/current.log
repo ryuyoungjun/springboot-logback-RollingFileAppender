@@ -1,0 +1,5 @@
+INFO  2023-11-08 12:33:15[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 1.8.0_332 on LAPTOP-HLN57N7I with PID 6580 (started by ryuyuongjun in C:\Users\ryuyuongjun\Desktop\vscode_workspace\springboot-logback-java8\demo)
+INFO  2023-11-08 12:33:15[main] [DemoApplicationTests:632] - No active profile set, falling back to 1 default profile: "default"
+INFO  2023-11-08 12:33:15[main] [PostProcessorRegistrationDelegate$BeanPostProcessorChecker:376] - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$b6d61c70] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+INFO  2023-11-08 12:33:15[main] [AnnotationActionEndpointMapping:239] - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+INFO  2023-11-08 12:33:17[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.438 seconds (JVM running for 3.269)
